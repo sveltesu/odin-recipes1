@@ -1,0 +1,16 @@
+body {
+    background-color: burlywood;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 700px;
+    height: auto;
+}
+
+h1 {
+    font-size: 24px;
+}
+h2 {
+    font-size: 18px;
+}
